@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="medium_size_header">MEDIUM SIZE HEADER</string>
+    <string name="we_now_offer_discounts_on_orders_sheduled_for_24hr_31day_pickup_into_the_future">We now offer
+        discounts on orders sheduled for 24hr-31day pickup into the future
+    </string>
+    <string name="ok">Ok</string>
+    <string name="start_dialog">Start Dialog</string>
+</resources>
